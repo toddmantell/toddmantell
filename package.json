@@ -1,6 +1,6 @@
 {
   "name": "toddmantell",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A personal card for Todd Mantell (@toddmantell)",
   "main": "/bin/card.js",
   "bin": {
